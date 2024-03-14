@@ -1,1 +1,1 @@
-# Landingpage_kebab
+Landingpage ini menggunakan framework tailwind css dan library flowbite ya teman-teman. Tenang disini untuk installasi framework dan library nya menggunakan metode CDN jadi tinggal download langsung run jadi deh!!!
